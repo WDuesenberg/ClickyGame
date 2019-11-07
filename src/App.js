@@ -3,6 +3,7 @@ import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import friendList from "./friends.json"; // renamed to 'friendList' so there's no conflict w/our friends const below
 import "./App.css";
+// import Counter from "./components/Counter";
 
 const App = () => {
     // creating a React state value 'friends' and specifying the method we'll use to alter that state, 'updateFriends'

@@ -86,29 +86,57 @@
   {
     "id": 13,
     "name": "Mario",
-    "image": "https://bandat-nhontrach.com/images/super-mario-brothers-clipart.png",
+    "image": "http://www.pngmart.com/files/5/Mario-Party-PNG-Clipart.png",
     "occupation": "Plumber",
     "location": "Mushroom Kingdom"
   },
   {
     "id": 14,
     "name": "Pikachu",
-    "image": "https://www.pngfind.com/pngs/m/495-4950739_pokemon-cartoon-png-pokemon-pikachu-png-transparent-png.png",
-    "occupation": "Pokemon Influencer",
+    "image": "http://www.pngmart.com/files/5/Anime-Pokemon-PNG-Image.png",
+    "occupation": "Electrical Rat",
     "location": "Poke Ball"
   },
   {
     "id": 15,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "Luigi",
+    "image": "http://www.pngmart.com/files/2/Luigi-PNG-Transparent-Image.png",
+    "occupation": "Plumber",
+    "location": "Mushroom Kingdom"
   },
   {
     "id": 16,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Yoshi",
+    "image": "http://www.pngmart.com/files/2/Yoshi-PNG-Clipart.png",
+    "occupation": "Dinosuar",
+    "location": "Mushroom Kingdom"
+  },
+  {
+    "id": 17,
+    "name": "Bowser",
+    "image": "http://www.pngmart.com/files/5/Bowser-PNG-Pic.png",
+    "occupation": "King of the Koopas",
+    "location": "Bowser's Kingdom"
+  },
+  {
+    "id": 18,
+    "name": "Blastoise",
+    "image": "http://www.pngmart.com/files/5/Anime-Pokemon-PNG-Photos.png",
+    "occupation": "Blasting Tortoise",
+    "location": "Poke Ball"
+  },
+  {
+    "id": 19,
+    "name": "Charazard",
+    "image": "http://www.pngmart.com/files/2/Pokemon-Transparent-Background.png",
+    "occupation": "Flying Fire Lizard",
+    "location": "Poke Ball"
+  },
+  {
+    "id": 20,
+    "name": "Shrek",
+    "image": "http://www.pngmart.com/files/3/Shrek-PNG-HD.png",
+    "occupation": "Ogre",
+    "location": "Swamp"
   }
 ]

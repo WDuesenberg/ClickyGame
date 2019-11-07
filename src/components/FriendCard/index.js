@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+// import Counter from "./Counter";
 
 function FriendCard(props) {
   return (
@@ -20,6 +21,13 @@ function FriendCard(props) {
           </li>
         </ul>
       </div>
+        {/* <p className="card-text">Click Count: {props.count}</p>
+          <span className="btn btn-primary" onClick={props.handleIncrement}>
+            Increment
+          </span>{" "}
+          <span className="btn btn-danger" onClick={props.handleDecrement}>
+            Decrement
+          </span> */}
       <span onClick={() => props.removeFriend(props.id)} className="remove">
         𝘅
       </span>

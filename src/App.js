@@ -46,7 +46,6 @@ const App = () => {
                     // count={this.state.count}
                     // handleIncrement={this.handleIncrement}
                     // handleDecrement={this.handleDecrement}
-
                 />
             ))}
         </Wrapper>

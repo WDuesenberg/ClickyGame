@@ -11,6 +11,19 @@ const App = () => {
     // that state...
     const [friends, updateFriends] = useState(friendList);
 
+// class Counter extends React.Component {
+//     state = {
+//         count: 0
+//     };
+
+//     handleIncrement = () => {
+//         this.setState({ count: this.state.count + 1 });
+//     };
+
+//     handleDecrement = () => {
+//         this.setState({ count: this.state.count - 1 });
+//     };
+// }
     const removeFriend = id => {
         // 'friends' in our filter below is our value from React state
         const remainingFriends = friends.filter(friend => friend.id !== id);
@@ -30,6 +43,10 @@ const App = () => {
                     location={friend.location}
                     key={friend.id}
                     removeFriend={() => removeFriend(friend.id)}
+                    // count={this.state.count}
+                    // handleIncrement={this.handleIncrement}
+                    // handleDecrement={this.handleDecrement}
+
                 />
             ))}
         </Wrapper>

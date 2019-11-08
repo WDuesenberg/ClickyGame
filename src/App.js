@@ -25,6 +25,7 @@ const App = () => {
 //         this.setState({ count: this.state.count - 1 });
 //     };
 // }
+ 
     const removeFriend = id => {
         // 'friends' in our filter below is our value from React state
         const remainingFriends = friends.filter(friend => friend.id !== id);

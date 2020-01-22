@@ -27,11 +27,13 @@ class Counter extends React.Component {
           <div className="card-header bg-primary text-white">
             Click Counter!
           </div>
+          
           <CardBody
             count={this.state.count}
             handleIncrement={this.handleIncrement}
             handleDecrement={this.handleDecrement}
           />
+          
         </div>
       );
     }

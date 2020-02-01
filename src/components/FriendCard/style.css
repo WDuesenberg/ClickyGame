@@ -23,7 +23,7 @@
   padding-top: 10%;
   text-align: center;
   /* background:rgb(31, 32, 32); */
-  background-image: linear-gradient(3600deg, #333, green);
+  background-image: radial-gradient(lawngreen 14%, rgb(27, 165, 27) 30%, rgb(2, 65, 2) 70%);
 }
 .card > .img-container > img {
   width: 65%
@@ -48,16 +48,3 @@
 .card > .content > ul > li {
   margin-top: 10px;
 }
-
-/* .card > .remove {
-  color: #ff1744;
-  font-size: 48px;
-  position: absolute;
-  top: -20px;
-  right: 5px;
-  cursor: pointer;
-} */
-
-/* .card > .remove:hover {
-  color: #d50000;
-} */

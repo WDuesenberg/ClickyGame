@@ -2,8 +2,8 @@
   background: goldenrod;
   border-style: outset;
   border-color: goldenrod;
-  border-width: 5px;
-  border-radius: 12px;
+  border-width: 7px;
+  border-radius: 14px;
   height: 335px;
   margin: 2rem;
   position: relative;
@@ -17,20 +17,20 @@
   overflow: hidden;
   border-radius: 12px;
   padding-top: 10%;
-  /* padding-bottom: 10px; */
   text-align: center;
-  background:rgb(31, 32, 32);
+  /* background:rgb(31, 32, 32); */
+  background-image: linear-gradient(3600deg, #333, green);
 }
 .card > .img-container > img {
   width: 65%
 }
 
 .card > .content {
-  /* padding-left: 1rem; */
-  /* padding-right: 1rem; */
-  /* padding-top: 5rem; */
-  /* padding-bottom: 1rem; */
-  /* font-size: 15px; */
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+  font-size: 15px;
 }
 
 .card > .content > ul {
